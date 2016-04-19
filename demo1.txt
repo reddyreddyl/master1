@@ -1,1 +1,3 @@
 this is my first session into production
+
+code updated . bugs fixed.
